@@ -15,4 +15,6 @@
     <string name="birthday1">子供の誕生日1</string>
     <string name="birthday2">子供の誕生日2</string>
     <string name="birthday3">子供の誕生日3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
