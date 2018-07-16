@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity
             "com.example.takak.neverforget.MysizeFragment",
             "com.example.takak.neverforget.PropertyFragment",
             "com.example.takak.neverforget.MemorialFragment"
-    }
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        FragmentManager fragmentManager = getSupportFragmentManager();
+        android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
 
         switch (id) {
             case R.id.nav_mysize:

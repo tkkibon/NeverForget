@@ -22,7 +22,7 @@
             android:id="@+id/textView"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            tools:text="@string/neck" />
+            android:text="@string/neck" />
 
         <EditText
             android:id="@+id/editText1"
@@ -44,7 +44,7 @@
             android:id="@+id/textView2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            tools:text="@string/sleeve" />
+            android:text="@string/sleeve" />
 
         <EditText
             android:id="@+id/editText2"
@@ -66,7 +66,7 @@
             android:id="@+id/textView3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            tools:text="@string/waist" />
+            android:text="@string/waist" />
 
         <EditText
             android:id="@+id/editText3"
@@ -88,7 +88,7 @@
             android:id="@+id/textView4"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            tools:text="@string/inside_leg" />
+            android:text="@string/inside_leg" />
 
         <EditText
             android:id="@+id/editText4"
